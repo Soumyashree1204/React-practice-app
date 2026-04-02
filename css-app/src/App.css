@@ -1,0 +1,18 @@
+.box h2 {
+  background-color: yellowgreen;
+  padding: 20px;
+   width: 300px;
+  height: 200px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  color:blue;
+  font-size: 20px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  height: 100vh
+}

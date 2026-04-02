@@ -1,0 +1,22 @@
+.base {
+  padding: 10px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 20px 40px;
+  gap: 10px;
+}
+
+.light {
+  background-color: #ffffff;
+  color: #000000;
+  border: 2px solid #000000;
+}
+
+.dark {
+  background-color: #222222;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+}

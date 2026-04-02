@@ -5,7 +5,7 @@ function toggle()
 
     const handletoggle =() =>
     {
-        setIsOn(!isOn)
+        setIsOn(!isOn);
     };
 
     return(
